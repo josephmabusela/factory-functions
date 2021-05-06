@@ -1,4 +1,4 @@
-function calculateBill(){
+function totalPhoneBill(){
     var call = 0;
     var sms = 0;
     var totalBill = 0;
